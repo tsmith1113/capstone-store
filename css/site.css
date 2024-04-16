@@ -2,8 +2,24 @@
     background-color: rgb(194, 145, 239);
     padding:20px;
     border: 3px solid plum
+    
 }
 
 .center{
     text-align: center;
+}
+
+header{
+    background-color: plum;
+    padding-left: 30px;
+    padding: 10px;
+
+}
+
+.a{
+    text-align: center;
+}
+
+body{
+    background-color: plum;
 }
