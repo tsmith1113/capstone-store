@@ -10,14 +10,12 @@
     max-width: 400px;
 }
 
-.center{
-    text-align: center;
-}
 
 
 
 body{
     background-color: plum;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #login{
@@ -35,4 +33,11 @@ body{
 b{
     font-weight: bold;
     font-size: 40px;
+}
+
+.home_img{
+float: left;
+}
+.home{
+    position: absolute;
 }
