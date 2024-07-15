@@ -1,7 +1,7 @@
 const modelCandyData = [
     {
         name: "Chocolate Bar",
-        img: "[placeholder image]",
+        img: "images/chocolate-candy 1.png",
         maxQuanity: 10,
         unitOfMeasurement: "pcs",
         type: "Chocolate",
@@ -9,7 +9,7 @@ const modelCandyData = [
     },
     {
         name: "Gummy Worms",
-        img: "[placeholder image]",
+        img: "images/gummy_worms.png",
         maxQuanity: 20,
         unitOfMeasurement: "oz",
         type: "Gummy",
@@ -17,7 +17,7 @@ const modelCandyData = [
     },
     {
         name: "Lollipop",
-        img: "[placeholder image]",
+        img: "images/lollipop_candy.png",
         maxQuanity: 15,
         unitOfMeasurement: "pcs",
         type: "Hard Candy",
@@ -25,7 +25,7 @@ const modelCandyData = [
     },
     {
         name: "Candy Corn",
-        img: "[placeholder image]",
+        img: "images/Candy_corn.png",
         maxQuanity: 30,
         unitOfMeasurement: "oz",
         type: "Seasonal",
@@ -33,7 +33,7 @@ const modelCandyData = [
     },
     {
         name: "Jawbreakers",
-        img: "[placeholder image]",
+        img: "images/jaw_breakers.png",
         maxQuanity: 5,
         unitOfMeasurement: "pcs",
         type: "Hard Candy",
@@ -41,7 +41,7 @@ const modelCandyData = [
     },
     {
         name: "Licorice Twists",
-        img: "[placeholder image]",
+        img: "images/licorice_twists.png",
         maxQuanity: 25,
         unitOfMeasurement: "oz",
         type: "Licorice",
@@ -49,7 +49,7 @@ const modelCandyData = [
     },
     {
         name: "Gum Balls",
-        img: "[placeholder image]",
+        img: "images/bubblegum_candy.png",
         maxQuanity: 50,
         unitOfMeasurement: "pcs",
         type: "Gum",
@@ -57,7 +57,7 @@ const modelCandyData = [
     },
     {
         name: "Peppermint Patties",
-        img: "[placeholder image]",
+        img: "images/peppermint_candy.png",
         maxQuanity: 40,
         unitOfMeasurement: "pcs",
         type: "Chocolate",
@@ -65,7 +65,7 @@ const modelCandyData = [
     },
     {
         name: "Fruit Chews",
-        img: "[placeholder image]",
+        img: "images/fruit_chews.png",
         maxQuanity: 35,
         unitOfMeasurement: "oz",
         type: "Chewy",
@@ -73,7 +73,7 @@ const modelCandyData = [
     },
     {
         name: "Sour Belts",
-        img: "[placeholder image]",
+        img: "images/sour_belts.png",
         maxQuanity: 45,
         unitOfMeasurement: "oz",
         type: "Sour",
@@ -81,7 +81,7 @@ const modelCandyData = [
     },
     {
         name: "Marshmallow",
-        img: "[placeholder image]",
+        img: "images/marshmellow_candy.png",
         maxQuanity: 60,
         unitOfMeasurement: "oz",
         type: "Soft Candy",
@@ -89,7 +89,7 @@ const modelCandyData = [
     },
     {
         name: "Butterscotch Discs",
-        img: "[placeholder image]",
+        img: "images/butterscotch_candy.png",
         maxQuanity: 50,
         unitOfMeasurement: "pcs",
         type: "Hard Candy",
@@ -97,7 +97,7 @@ const modelCandyData = [
     },
     {
         name: "Caramel Squares",
-        img: "[placeholder image]",
+        img: "images/caramel candy 1.png",
         maxQuanity: 40,
         unitOfMeasurement: "pcs",
         type: "Caramel",
@@ -105,7 +105,7 @@ const modelCandyData = [
     },
     {
         name: "Bubble Gum",
-        img: "[placeholder image]",
+        img: "images/bubblegum_candy.png",
         maxQuanity: 70,
         unitOfMeasurement: "pcs",
         type: "Gum",
@@ -113,23 +113,15 @@ const modelCandyData = [
     },
     {
         name: "Chocolate Truffles",
-        img: "[placeholder image]",
+        img: "images/truffle_candy.png",
         maxQuanity: 20,
         unitOfMeasurement: "pcs",
         type: "Chocolate",
         price: 3.00
     },
     {
-        name: "Cotton Candy",
-        img: "[placeholder image]",
-        maxQuanity: 10,
-        unitOfMeasurement: "bags",
-        type: "Fluffy Candy",
-        price: 4.00
-    },
-    {
         name: "Dark Chocolate",
-        img: "[placeholder image]",
+        img: "images/dark_chocolate.png",
         maxQuanity: 25,
         unitOfMeasurement: "bars",
         type: "Chocolate",
@@ -137,7 +129,7 @@ const modelCandyData = [
     },
     {
         name: "Peanut Butter Cups",
-        img: "[placeholder image]",
+        img: "images/peanutbutter_candy.png",
         maxQuanity: 30,
         unitOfMeasurement: "pcs",
         type: "Chocolate",
@@ -145,7 +137,7 @@ const modelCandyData = [
     },
     {
         name: "Gummy Bears",
-        img: "[placeholder image]",
+        img: "images/gummy_bears.png",
         maxQuanity: 50,
         unitOfMeasurement: "oz",
         type: "Gummy",
@@ -153,7 +145,7 @@ const modelCandyData = [
     },
     {
         name: "Rock Candy",
-        img: "[placeholder image]",
+        img: "images/rock_candy.png",
         maxQuanity: 20,
         unitOfMeasurement: "sticks",
         type: "Hard Candy",
@@ -161,7 +153,7 @@ const modelCandyData = [
     },
     {
         name: "Taffy",
-        img: "[placeholder image]",
+        img: "images/taffy_candy.png",
         maxQuanity: 50,
         unitOfMeasurement: "pcs",
         type: "Chewy",
@@ -169,7 +161,7 @@ const modelCandyData = [
     },
     {
         name: "Candy Canes",
-        img: "[placeholder image]",
+        img: "images/candy_cane.png",
         maxQuanity: 40,
         unitOfMeasurement: "pcs",
         type: "Seasonal",
@@ -177,7 +169,7 @@ const modelCandyData = [
     },
     {
         name: "Toffee",
-        img: "[placeholder image]",
+        img: "images/toffee_candy.png",
         maxQuanity: 30,
         unitOfMeasurement: "pcs",
         type: "Hard Candy",
@@ -337,7 +329,7 @@ const modelCandyData = [
     },
     {
         name: "Cotton Candy Pops",
-        img: "[placeholder image]",
+        img: "images/cotton-candy 1.png",
         maxQuanity: 40,
         unitOfMeasurement: "pcs",
         type: "Lollipop",
