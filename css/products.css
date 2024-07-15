@@ -6,7 +6,7 @@ body {
   
   /* Navbar Styles */
   .navbar {
-    background-color: #ff6f61;
+    background-color: rgb(251, 167, 181);
   }
   
   .navbar-brand,
@@ -51,7 +51,7 @@ body {
   
   .card-title {
     font-size: 1.25rem;
-    color: #ff6f61;
+    color: rgb(251, 167, 181);
   }
   
   .card-text {
@@ -59,8 +59,8 @@ body {
   }
   
   .btn-primary {
-    background-color: #ff6f61;
-    border-color: #ff6f61;
+    background-color: rgb(251, 167, 181);
+    border-color: rgb(251, 167, 181);
   }
   
   .btn-primary:hover {
@@ -70,7 +70,7 @@ body {
   
   /* Footer */
   footer {
-    background-color: #ff6f61;
+    background-color: rgb(251, 167, 181);
     color: #fff;
     padding: 1rem 0;
   }
