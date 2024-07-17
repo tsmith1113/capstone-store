@@ -177,7 +177,7 @@ const modelCandyData = [
     },
     {
         name: "Milk Chocolate",
-        img: "images/milk_chocolate.jpg",
+        img: "images/milk_choclolate.jpg",
         maxQuanity: 20,
         unitOfMeasurement: "bars",
         type: "Chocolate",
@@ -217,7 +217,7 @@ const modelCandyData = [
     },
     {
         name: "Mint Candies",
-        img: "images/mint_candies.jpg",
+        img: "images/mint-candies.jpg",
         maxQuanity: 60,
         unitOfMeasurement: "pcs",
         type: "Mint",
@@ -233,7 +233,7 @@ const modelCandyData = [
     },
     {
         name: "Chocolate Covered Almonds",
-        img: "images/cohoclate_almonds.jpg",
+        img: "images/cohocolate_almonds.jpg",
         maxQuanity: 40,
         unitOfMeasurement: "oz",
         type: "Chocolate",
@@ -246,14 +246,6 @@ const modelCandyData = [
         unitOfMeasurement: "pcs",
         type: "Hard Candy",
         price: 2.00
-    },
-    {
-        name: "Candy Necklaces",
-        img: "[placeholder image]",
-        maxQuanity: 30,
-        unitOfMeasurement: "pcs",
-        type: "Novelty",
-        price: 1.50
     },
     {
         name: "Gummy Frogs",
@@ -312,14 +304,6 @@ const modelCandyData = [
         price: 2.80
     },
     {
-        name: "Chocolate Covered Espresso Beans",
-        img: "[placeholder image]",
-        maxQuanity: 30,
-        unitOfMeasurement: "oz",
-        type: "Chocolate",
-        price: 3.50
-    },
-    {
         name: "Cotton Candy Pops",
         img: "images/cotton-candy 1.png",
         maxQuanity: 40,
@@ -345,7 +329,7 @@ const modelCandyData = [
     },
     {
         name: "Root Beer Barrels",
-        img: "images/root_beercandy.jpg",
+        img: "images/root_beercandy.png",
         maxQuanity: 40,
         unitOfMeasurement: "pcs",
         type: "Hard Candy",
@@ -391,12 +375,4 @@ const modelCandyData = [
         type: "Gummy",
         price: 2.80
     },
-    {
-        name: "Marzipan",
-        img: "[placeholder image]",
-        maxQuanity: 30,
-        unitOfMeasurement: "oz",
-        type: "Nut Candy",
-        price: 3.50
-    }
 ];
